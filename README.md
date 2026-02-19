@@ -77,7 +77,6 @@ Agentic-AutoML-Studio/
 │       └── dashboard.py      # Streamlit frontend
 ├── data/                     # Put your test CSVs here
 ├── requirements.txt
-├── main.py                   # Entry point
 └── README.md
 ```
 
