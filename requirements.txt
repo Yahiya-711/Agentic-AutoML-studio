@@ -1,1 +1,19 @@
+# AutoML Engine (Choose ONE - FLAML is lighter for 8GB RAM)
+flaml[automl]==2.3.0
+# autogluon.tabular==1.1.1  # Uncomment if using AutoGluon instead
 
+# LangChain + LangGraph
+langchain-ollama==0.2.0
+langchain-core==0.3.0
+langgraph==0.2.28
+
+# UI
+streamlit==1.40.0
+
+# Data Handling
+pandas==2.2.0
+scikit-learn==1.5.0
+numpy==1.26.0
+
+# System Monitoring (for RAM safety)
+psutil==6.1.0
